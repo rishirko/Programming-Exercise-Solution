@@ -38,3 +38,9 @@ This project simulates a simple conveyor belt system with fixed stations and ran
   Finished products: 220
   Unpicked A's: 57
   Unpicked B's: 72
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.0 or higher installed 
